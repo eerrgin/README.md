@@ -1,4 +1,3 @@
-18ç35```markdown
 <div align="center">
 
 # ERGİN TEKNİK ATÖLYE
@@ -63,4 +62,3 @@ This is an evolving workshop, not a finished portfolio. Some projects are practi
 <sub>Built with curiosity. Improved one experiment at a time.</sub>
 
 </div>
-```
